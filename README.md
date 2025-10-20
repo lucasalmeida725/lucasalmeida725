@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Almeida
 
-Sou estudante  em formação na área de **Engenharia de Software**, apaixonado por construir sistemas bem estruturados, com código limpo e foco em boas práticas.  
+Sou desenvolvedor em formação na área de **Engenharia de Software**, apaixonado por construir sistemas bem estruturados, com código limpo e foco em boas práticas.  
 Atualmente, venho me dedicando ao desenvolvimento **Full Stack**, com ênfase em **Spring Boot** no backend e **HTML, CSS e JavaScript** no frontend.
 
 ---
@@ -40,13 +40,14 @@ Atualmente, venho me dedicando ao desenvolvimento **Full Stack**, com ênfase em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" height="45" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" height="45" alt="Eclipse IDE"/>
 </p>
 
 [![Git](https://img.shields.io/badge/Version-Git-orange?style=flat-square&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/Host-GitHub-black?style=flat-square&logo=github)](https://github.com)
 [![JUnit](https://img.shields.io/badge/Test-JUnit-green?style=flat-square&logo=java)](https://junit.org)
 [![Mockito](https://img.shields.io/badge/Mock-Mockito-yellow?style=flat-square)](https://site.mockito.org)
+[![Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?style=flat-square&logo=eclipseide)](https://www.eclipse.org)
 
 ---
 
@@ -66,7 +67,7 @@ Aplicação backend robusta com **validações avançadas**, **tratamento global
 
 ---
 
-
+## 📊 Estatísticas GitHub
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasalmeida725&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalmeida725&layout=compact&langs_count=7&theme=dark"/>
@@ -75,10 +76,10 @@ Aplicação backend robusta com **validações avançadas**, **tratamento global
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Almeida-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-almeida-5b2527327/)
-[![GitHub](https://img.shields.io/badge/GitHub-LucasAlmeida725-black?style=flat-square&logo=github)](https://github.com/lucasalmeida725)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Almeida-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-almeida-5b2527327/)  
+[![GitHub](https://img.shields.io/badge/Perfil-LucasAlmeida725-black?style=flat-square&logo=github)](https://github.com/lucasalmeida725)  
+📧 **E-mail:** [lucasalneida04@gmail.com](mailto:lucasalneida04@gmail.com)
 
 ---
 
-
-
+> — Lucas Almeida ☕
