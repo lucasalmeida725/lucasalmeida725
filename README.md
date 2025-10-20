@@ -86,7 +86,6 @@ Aplicação backend robusta com **validações avançadas**, **tratamento global
 ## 🎓 Certificação
 
 <p align="center">
-  <img src="https://github.com/lucasalmeida725/lucasalmeida725/blob/main/certificado-fullstack-infinity.png" width="600" alt="Certificado Full Stack Infinity School"/>
 </p>
 
 **Certificado Internacional de Master Creative - Full Stack Programming IA**  
