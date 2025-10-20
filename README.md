@@ -81,5 +81,17 @@ Aplicação backend robusta com **validações avançadas**, **tratamento global
 📧 **E-mail:** [lucasalneida04@gmail.com](mailto:lucasalneida04@gmail.com)
 
 ---
+---
+
+## 🎓 Certificação
+
+<p align="center">
+  <img src="https://github.com/lucasalmeida725/lucasalmeida725/blob/main/certificado-fullstack-infinity.png" width="600" alt="Certificado Full Stack Infinity School"/>
+</p>
+
+**Certificado Internacional de Master Creative - Full Stack Programming IA**  
+Emitido pela **Infinity School**, com parceria da **Microsoft** e **Google Partner**.  
+Reconhecimento em **desenvolvimento Full Stack**, criando **aplicações, sites e sistemas completos**.
+
 
 > — Lucas Almeida ☕
